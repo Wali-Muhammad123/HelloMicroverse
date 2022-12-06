@@ -25,11 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello_Microverse]** is my first project uploaded on the microverse. It is a simple project that contains a simple HTML and CSS file and has the purpose of testing the linters and the gitflow.
+**Hello_Microverse** is my first project uploaded on the microverse. It is a simple project that contains a simple HTML and CSS file and has the purpose of testing the linters and the gitflow.
 
 ## 🛠 Built With <a name="built-with"></a>
 1) HTML
@@ -135,8 +133,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Wali Muhammad**
 
 - GitHub: [@Wali-Muhammad123](https://github.com/Wali-Muhammad123)
@@ -147,8 +143,7 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
+None thinking of at the moment.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -165,9 +160,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project...You can a give a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,10 +169,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank... 
-<<<Microverse Success Team>>>
+Microverse for the opportunity to learn and grow as a developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
